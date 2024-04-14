@@ -1,0 +1,9 @@
+.idea
+*.pyc
+__pychache__
+misc/figures
+misc/figures_sc
+nadaraya-watson/build
+nadaraya-watson/nadaraya_watson.egg-info
+logs*
+.DS_Store
