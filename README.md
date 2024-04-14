@@ -1,4 +1,4 @@
-This folder contains the code accompanying the T-PAMI paper "On the Benefit of Optimal Transport for Curriculum Reinforcement Learning". 
+This repository contains the code accompanying the T-PAMI paper "On the Benefit of Optimal Transport for Curriculum Reinforcement Learning". 
 
 For the sparse goal reaching, unlockpickup, and point mass environment, we used Python 3.8 to run the experiments. The required dependencies are 
 listed in the **requirements.txt** file and can be installed via
